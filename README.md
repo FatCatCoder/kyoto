@@ -22,7 +22,7 @@
 - AC to 12DC PSU with barrel jack ~ [$15 @ Amazon](https://www.amazon.com/Chanzon-Switching-Adapter-100-240V-Transformer/dp/B07HNL5D56/ref=sr_1_4?keywords=12v+dc+power+supply+arduino&qid=1638213271&qsid=140-7632413-2814216&sr=8-4&sres=B00FEOB4EI%2CB07HNL5D56%2CB07N2FN18R%2CB08FX4DYK6%2CB00HJ6AE72%2CB01MQGMOKI%2CB077PW5JC3%2CB00Q2E5IXW%2CB07NKZCWT1%2CB074BRR5YN%2CB07C75RT38%2CB078RY6YY3%2CB0852HX9HV%2CB078RXZM4C%2CB01AZLA9XQ%2CB06Y1LF8T5&srpt=CHARGING_ADAPTER)
 
 ## Wiring
-<img src="./wiring.JPG" style="max-width: 700px !important; width: 100vw;" />
+<img src="./wiring.jpg" style="max-width: 700px !important; width: 100vw;" />
 
 ### TODO
 - add LCD
