@@ -24,6 +24,11 @@
 ## Wiring
 <img src="./wiring.jpg" style="max-width: 700px !important; width: 100vw;" />
 
+#### Notes -
+#### * LCD in  image not accurate, I used a serial lcd
+ - G: SLA, Blu: SDA, R: HOT, Bla: Ground
+#### ** Slider Pot in the image is not accurate, I used a leftover audio tapered slide
+
 ### TODO
 - add LCD
 - add rotary pots or buttons
